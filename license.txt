@@ -1,0 +1,11 @@
+Model Information:
+* title:	Okapi (NHMW-Zoo1-MAMM ST348)
+* source:	https://sketchfab.com/3d-models/okapi-nhmw-zoo1-mamm-st348-c1c13a4994924a56a4a8244f6f543d7f
+* author:	Natural History Museum Vienna (https://sketchfab.com/NHMWien)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Okapi (NHMW-Zoo1-MAMM ST348)" (https://sketchfab.com/3d-models/okapi-nhmw-zoo1-mamm-st348-c1c13a4994924a56a4a8244f6f543d7f) by Natural History Museum Vienna (https://sketchfab.com/NHMWien) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

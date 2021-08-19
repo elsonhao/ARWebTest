@@ -1,0 +1,361 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        984.9780883789063,
+        1232.567138671875,
+        379.9180908203125
+      ],
+      "min": [
+        -766.6160278320313,
+        -413.4645080566406,
+        -556.5758666992188
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999796748161316,
+        0.9999766945838928,
+        0.9999864101409912
+      ],
+      "min": [
+        -0.999942421913147,
+        -0.9998875856399536,
+        -0.9999736547470093
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.996133029460907,
+        0.9992910027503967
+      ],
+      "min": [
+        0.0007089999853633344,
+        0.0005300000193528831
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 362115,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        921.7371215820313,
+        1230.549560546875,
+        379.5050048828125
+      ],
+      "min": [
+        -766.6160278320313,
+        -413.4645080566406,
+        -545.7652587890625
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999610185623169,
+        0.9999766945838928,
+        0.9999936819076538
+      ],
+      "min": [
+        -0.9999831318855286,
+        -0.9999219179153442,
+        -0.9999846816062927
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 524256,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9779490232467651,
+        0.9992910027503967
+      ],
+      "min": [
+        0.0007089999853633344,
+        0.1555349975824356
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1448460,
+      "componentType": 5125,
+      "count": 374475,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 3732,
+      "max": [
+        168.54776000976563,
+        1182.563720703125,
+        343.48577880859375
+      ],
+      "min": [
+        -486.9697265625,
+        283.94970703125,
+        -182.1643524169922
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3190320,
+      "componentType": 5126,
+      "count": 3732,
+      "max": [
+        0.9921907782554626,
+        0.999919593334198,
+        0.9880622625350952
+      ],
+      "min": [
+        -0.9995737671852112,
+        -0.7163919806480408,
+        -0.9999416470527649
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1048512,
+      "componentType": 5126,
+      "count": 3732,
+      "max": [
+        0.6850510239601135,
+        0.8034250140190125
+      ],
+      "min": [
+        0.27352601289749146,
+        0.22304600477218628
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2946360,
+      "componentType": 5125,
+      "count": 13410,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Natural History Museum Vienna (https://sketchfab.com/NHMWien)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/okapi-nhmw-zoo1-mamm-st348-c1c13a4994924a56a4a8244f6f543d7f",
+      "title": "Okapi (NHMW-Zoo1-MAMM ST348)"
+    },
+    "generator": "Sketchfab-11.53.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 3000000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1078368,
+      "byteOffset": 3000000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3235104,
+      "byteOffset": 4078368,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 7313472,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/material_0_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "material_0"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.000916499360223734,
+        0.00010714012893302962,
+        -0.00038542180103856225,
+        0.0,
+        9.642957608952014e-05,
+        -0.0009942260260745184,
+        -4.7075314820596186e-05,
+        0.0,
+        -0.00038823999818436705,
+        5.9784369588834145e-06,
+        -0.0009215389331788601,
+        0.0,
+        -165.5834197998047,
+        367.24090576171886,
+        -425.53759765624994,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2,
+        3,
+        4
+      ],
+      "name": "NHMW-Zoo1-MAMM ST348_Okapi_low res.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_3"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_4"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    }
+  ]
+}
